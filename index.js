@@ -1,6 +1,7 @@
-const nama ="denny muzaeni"
+const namadepan ="denny"
+const namabelakang ="muzaeni"
 
 function getNama(){
-    return nama;
+    return namadepan + namabelakang;
 }
 console.log (getNama());
